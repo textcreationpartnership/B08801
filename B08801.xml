@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the churches of Jesus Christ, called to be saints through the immortal seed which dwelleth in you, and shall be with you for ever.  Grace be with you, and peace from God our Father, and our Lord Jesus Christ.</title>
+            <author>Collier, Thomas, fl. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08801</idno>
+            <idno type="STC">Wing C5300A</idno>
+            <idno type="STC">ESTC R224213</idno>
+            <idno type="EEBO-CITATION">64551120</idno>
+            <idno type="OCLC">ocm 64551120</idno>
+            <idno type="VID">184483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184483)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the churches of Jesus Christ, called to be saints through the immortal seed which dwelleth in you, and shall be with you for ever.  Grace be with you, and peace from God our Father, and our Lord Jesus Christ.</title>
+                  <author>Collier, Thomas, fl. 1691.</author>
+                  <author>Strange, Nathaniel.</author>
+                  <author>Glass, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Brewster, at the Three bibles in Pauls's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: "Yours dearly in love in, and ready to serve you for Christ Jesus, Thomas Collier, Nathaniel Strange, Thomas Glass."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  England --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184483:1" rendition="simple:additions"/>
+            <head>To all the <hi>Churches of Jeſus Chriſt,</hi> called to be <hi>Saints</hi> through the immortall ſeed which dwelleth in you, and ſhall be with you for ever. Grace be with you, and peace from God our Father, and our Lord Jeſus Chriſt.</head>
+            <opener>
+               <salute>Dearly beloved Brethren,</salute>
+            </opener>
+            <p>WE hope it is on our hearts to live and die with you, as thoſe that are joyned to the Lord, and each to other by the will of God, members of that one body, built up through that one everlaſting ſpirit, a holy Tabernacle for the living God. Neither is it the leaſt part of our joy to be ſervice<g ref="char:EOLhyphen"/>able unto you, who are our joy, and the delight of our dear Jeſus. Surely we have been made in much ſenſe to ſay to the Lord, our goodneſſe extends not unto thee; but if as a few poor worms we may be uſefull to thy excellent ones, to help them on to the end of their faith, the ſalvation of their ſouls, it ſhall be enough unto us: And for this we would labour night and day, warning every one of you, ſtriving with you, and together with you with God for you, that every one of you may be preſented perfect in Chriſt Jeſus. This deſign and honeſt deſire of our ſouls, hath brought us together from far to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it before the Lord in this place, where we have been taking upon us to ſpeak to God, though duſt and aſhes. Yea, we have been encouraged to ſpread be<g ref="char:EOLhyphen"/>fore your Father and our Father, the ſeveral weights that lie upon you and us. Wherein we have not been without hope, the Father hath not taken advantage through our confeſſions to condemn us in his preſence, or to upbraid us, but hath ſmiled upon us notwithſtanding. And though we have been ready to cry out, we are cut off from before thine eyes, yet hath he heard the voice of our ſupplication. And it is no ſmall addition to our comfort, while we think of it, that while we carried the yokes and burdens of whole Sion, and have been as the ſouls under the Altar, crying, <hi>How long Lord, holy and true, why doth this Cha<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t wheel make ſo <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng tarrying?</hi> the Lord hath lightned us while we have thus looked unto him. Neither ſhall we be aſhamed to ſay to you, <hi>Rejoyce oh Daugh<g ref="char:EOLhyphen"/>ter of Sion, behold your King, he commeth in righteouſneſs and in peace, to give an expected end.</hi> We have told our Father and your Father, that we could not be ſatisfied with life for our ſelves, peace for our ſelves, white robes for our ſelves, unleſs Sion alſo might be made partaker of the ſalvation of God. And in this we hav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had ſome faith, and ſome revivings have attended our ſouls in the hope of his mercy; and now as we have been faithfull for you to God, ſo we would now be faithful for God to you. We have been arraigning the abominations of Sion b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore the bar of the moſt High; we have been crying for Ju<g ref="char:EOLhyphen"/>ſtice from the throne, upon every ſin, for ſtrength and light to purge out every perſiſting impenitent ſinner, as enemies and traytors to the crown and dig<g ref="char:EOLhyphen"/>nity of our Lord Jeſus. More particularly, we have been ſpreading out our hands before the moſt High, and have made confeſſion of thoſe reigning abomina<g ref="char:EOLhyphen"/>tions in our own ſouls, and in the Churches that light ſpirit, living ſhort of the true light and ſenſe of Gods Majeſty in his Churches, and among his Saints; from whence proceeds that vanity and careleſneſs which doth ſo much attend them. We have bewaild that wretched worldly ſpirit, that plucks down the Saints from their excellency, and leaves ſuch blackneſſe upon them, which renders them ſo uncomely in the eyes of men. We have bewaild that coldneſſe and deadneſs that is upon our ſelves, and upon the Churches. That formality in holy duties, that indifferency, that Laodicean ſpirit that is fallen in upon us, while we have be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, Let him make ſpeed and haſten his work that we may ſee it, let the counſel of the Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d come, that we may know it; and all this wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve been drawing iniquity with the cords of vanity, having been in a great meaſure as without the ſence of the work, ſo without the true tra<g ref="char:EOLhyphen"/>vail of ſoul, which this work ſhould put us into. For theſe things our ſouls have been bowed down: And ſome have been made to cry out, <hi>O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that our heads were a <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and our yes were us rivers of tears, that we m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght weep f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r the in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quity of the daughters of Sion.</hi> Behold for this our ſouls have been in diſtreſſe, our bowels have been <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oubled, our hearts have been turned within us; we have taken off our ornaments, we have been breaking and bleeding, and have been crying out for more <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighs, becauſe the crown is fallen from Sions head by reaſon of her iniqui<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y. We have been bewailing perſonall iniquity, congregatio<g ref="char:EOLhyphen"/>nall iniqu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty<g ref="char:punc">▪</g> national <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niqui<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, family iniquity, cl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niquity; we have by ſearch found poor Sion as it were witho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſoundneſſe, from the crow<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the head to the ſole of the f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full of bruiſes and putrified ſores. And now we call upon you that tremble at the word of God to come unto us; take heed, oh take <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed of being unſenſible of poor <hi>Ja<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> trouble; take heed of <hi>ſtretc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s on your b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds of Ivory, of drinking you wine in bowls, in cha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting at the ſound of the viol, ano<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing you<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lves with the chief Spices, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d forget that J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph is in affliction,</hi> your poor nat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, your poor familys, your poor Churches, your own poor <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>culs are in diſtreſſe, heaven and earth ſeems to frown<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rouble within, and terrour without; theſe things are come upon thee, and who ſhall comfort thee? <hi>Oh c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me down, ſit in the duſt, call your ſolemn aſſemblies, pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m faſts, and w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep bitterly before the Lord f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r all your abomin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion:</hi> You have but as it were play<g ref="char:EOLhyphen"/>ed with God you have not tr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbled in his preſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, you have been wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ton before him, having been without the terror of his Majeſty, therefore you have confeſſed, and have delighted to word it out with the Lord, but alas, you have no ſooner gon away, but you have forgot what manner of men and women you were, and thought no more on your prayers. Oh how often have you mocked God; but oh <hi>be not deceived, God will not be mocked.</hi> It appeares already how God takes it at your hands, and now once more you have ſent us hither, and once more our father hath ſmiled upon us, for we have begged him to ſave us yet this once more, and truly we tr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mble. If it ſhould be as at other times, what will the Lord doe in the end thereof, the hope that is in <hi>Iſrael</hi> concerning this th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne li<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in your putting from you that accurſed thing. Oh now if you would purſue this pride, this worldlineſs, this coldneſs and ſlothfulneſs, your perſo<g ref="char:EOLhyphen"/>nal neglects, your family neglects, the Lord might yet be intreated to return and have mercy upon us, that we might be healed. Oh that now theſe things might <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e laid to heart. How d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the world as a canker eat out your affections to the Lord Jeſus, eat out your time, your ſtrength, your zeale, while you have been aſleep in the lap of this <hi>Dali<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h,</hi> your locks have been cut off, and you are but as other men; that whoever beholds you may ſay what ſingular thing do ye? now then lay to heart theſe crying abominations of Sion: the generall complaint in almoſt all the Epiſtles, the world is too beautiful; Satan hath ſhe<g ref="char:EOLhyphen"/>ed them the Kingdoms of the earth, and this hath Bewitched them, and their minds are much, oh too much alienated from the Lord. Oh brethren the lot is fall<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n upon this as a troubler of <hi>Iſrael,</hi> and that for which you have fallen before your enemies, bring it out now, and ſtone it before the Lord; yea raiſe up ſuch a heap upon it, as it may never appear more; that God m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y make this <hi>Valley of Ach<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r a door of h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe.</hi> This iniquity hath been apparently written upon your for<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heads, witneſs your <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emiſneſs i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meetings, your neglect of the poor Sain<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and of the Miniſters of Chriſt, whoſe daily complaints and addreſſes are living monuments of this raigning abomination; your cruelty to ſervants, children, exacting all their labours, but take no time to counſell them, inſtruct them, to ſhew them that are without Chriſt that miſerable eſtate wherein they are, that their ſouls may be the better for you, and they bound to bleſſe God on your behalf. And to commune in the Lord with them that are in Chriſt, that their ſouls might be comforted, edified, and encouraged to walk with God in their places. This hath made profeſſors families ſo dry, uſeleſs, &amp; unprofitable, Saints communion ſo little tending to edification. This <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in eats out all that di<g ref="char:EOLhyphen"/>vine ſweetneſs of regenerating and ſanctifying grace. We have mou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned in that we have had ſo great a hand in this treſpaſs, in not bearing ſo faithful a te<g ref="char:EOLhyphen"/>ſtimony againſt it in our miyiſtry, but ſlaviſh fear of being accounted ſelfiſh or the like, hath ſtopt our mouth untill the mouth of this iniquity hath almoſt de<g ref="char:EOLhyphen"/>vouring the poor Churches of Chriſt. Oh we would not conſult with this fleſh any longer, but in our places (and deſire by theſe to provoke all the miniſtring brethren every where alſo to be faithfull to the Lord and their poor Churches, to bear a faithful teſtimony againſt every evil way that is hated and abhor'd of God, what cenſure ſoever they may meet with all from men. That of ſlothfulneſs, careleſneſs, another reigning evil; from theſe two as the root ſprings many other dangerous hurtful practices the great hinderances of our works in our Families the Churches and our own Souls. And becauſe they are evils rooted deeply in the heart, it is hard to get them out. And we have by experience found, how well they are able to bear with teſtimony againſt them, with Re<g ref="char:EOLhyphen"/>proo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Counſels, and yet lie cloſe, they are Sermon-proof and Epiſtle-proof; ſo ſtrong that they have wreſted all weapons out of the hands of Saints and Miniſters that have been formed againſt them: Now we deſire we may no longer reſt in a teſtimony of words, but proceed to take ſome effectual courſe that ſin or ſinners may be purged out of the houſe of God. In order to this, we deſire the Churches that they would ſet ſome day or days apart wherein they may bewail theſe iniquities and pollutions of Sion before the Lord, and to bring their ſouls into a through ſence of them alſo, that the miniſtring bre<g ref="char:EOLhyphen"/>thren would without reſpect of perſons bear their conſtant teſtimony in their miniſtry, and from houſe to houſe night and day, warning every one to flee from thoſe abominations; that at leaſt they may deliver themſelves from the blood of ſouls, having declared to them the whole counſel of God. And if ſtill it be perſiſted in, and plain proofs of it in the ways and works of the profeſſors of Chriſt, we leave it as the Churches ſpecial duty to purſue it, by dea<g ref="char:EOLhyphen"/>ling with it until ſin or ſinner be purged away. We ſhall leave it to the Lord, and thoſe with whom the Lord hath intruſted with his Oracles to be further opening and alledging thoſe things whoſe words we deſire may be heeded. Another <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vil we had thought to have ſpread before you; for want of opporunity we ſhall now omit, yet deſire you may lay it to heart, look over again our former Epiſtles, and that from <hi>Chard</hi> we have laboured in vain, that which hath been brought forth hath been to ſo little purpoſe. And now brethren, our hope is in your obedience; in thoſe things we hope we ſhall rejoyce in you; nay we do rejoyce in our hope of you; in this hope we commit you to the Lord, and to the word of his grace, who is able to build you up, and to give you an in<g ref="char:EOLhyphen"/>heritance amongſt them that are ſanctified. We remain</p>
+            <closer>
+               <signed>Yours dearly to love in, and ready to ſerve you for Chriſt Jeſus,
+<list>
+                     <item>Thomas Collier,</item>
+                     <item>Nathaniel Strange,</item>
+                     <item>Thomas Glaſs.</item>
+                  </list>
+               </signed>
+
+               <dateline>From the meeting of the Meſſengers of the Churches in <hi>Tiverton,</hi> 
+                  <date>this 18 day of the 7th moneth 1657.</date> ſigned by us, in their names, and by their appointment.</dateline>
+            </closer>
+            <postscript>
+               <p>We have appointed our next meeting at <hi>Dorcheſter,</hi> and deſire the Churches to ſend their Meſſengers to be there the 2d day (at night) of the 2d week of the 3d month <hi>(vul.) May</hi> 1658.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Brewſter,</hi> at the three Bibles in <hi>Paul's</hi> Church-yard, 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
